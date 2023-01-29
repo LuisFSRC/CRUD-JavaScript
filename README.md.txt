@@ -1,0 +1,2 @@
+Projeto realizado em HTML5, CSS3 e JavaScript Puro, como Banco de Dados foi utilizado o LocalStorage do Navegador.
+O projeto é um CRUD (Criar, Ler, Atualizar, Deletar) completo. E os dados serão persistidos até que os cookies do navegador sejão excluidos.
